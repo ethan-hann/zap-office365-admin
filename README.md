@@ -15,11 +15,13 @@ You can however make use of it either by using it as a [beta tester](https://zap
 ### Triggers
 
 New User
+
 New Product SKU
 
 ### Create
 
 New User
+
 Assign License
 
 ## Authors
