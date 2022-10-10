@@ -1,10 +1,10 @@
 {
   "name": "zap-office365-admin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Administer your Office 365 account via Zapier",
-  "repository": "theinformationlab/zap-office365-admin",
-  "homepage": "https://www.theinformationlab.co.uk/lab",
-  "author": "Craig Bloodworth, The Information Lab",
+  "repository": "ethan-hann/zap-office365-admin",
+  "homepage": "https://tortal.tech",
+  "author": "Craig Bloodworth, The Information Lab - Ethan Hann, Tortal.tech",
   "license": "BSD-3-Clause",
   "main": "index.js",
   "scripts": {
